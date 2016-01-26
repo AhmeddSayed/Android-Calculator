@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="headerText">Enter the mathematical Operation, then press the Answer Key.</string>
+    <string name="bAnswerText">Answer</string>
+    <string name="b7Text">7</string>
+    <string name="b8Text">8</string>
+    <string name="b4Text">4</string>
+    <string name="b1Text">1</string>
+    <string name="b2Text">2</string>
+    <string name="b3Text">3</string>
+    <string name="b5Text">5</string>
+    <string name="b6Text">6</string>
+    <string name="b9Text">9</string>
+    <string name="bDotText">.</string>
+    <string name="bMultiplyText">*</string>
+    <string name="bDivideText">/</string>
+    <string name="bRemainderText">%</string>
+    <string name="bClearText">Clear</string>
+    <string name="bAddText">+</string>
+    <string name="bSubtractText">-</string>
+    <string name="Zero">0</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+    <string name="AnswerHeader">The Answer is:</string>
+</resources>
